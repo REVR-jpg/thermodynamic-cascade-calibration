@@ -10,3 +10,4 @@ This code mathematically isolates the dimensional fracture curve at $\Lambda \ap
 **Files Included:**
 * `Cascade_Lambda_Calibration.ipynb` - The primary Python script used to execute the calibration pipeline.
 * `12314.jpg` - The resulting scatter plot isolating the transition constant.
+Includes microscopic calibration of the Casimir effect modeling fractional dimension scaling (D=2.70285). See the full white paper here: [10.5281/zenodo.24012761]
