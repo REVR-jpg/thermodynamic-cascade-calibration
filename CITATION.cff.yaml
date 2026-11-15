@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this simulation suite or calibration framework, please cite it using the metadata below."
+authors:
+  - family-names: "Williams"
+    given-names: "Raymond Russell"
+    orcid: "https://orcid.org/0009-0003-1267-6382"
+    affiliation: "Independent Researcher, Mesa, Arizona, USA"
+title: "The Cosmic Goldilocks Cascade & Dark Forest Simulation Suite"
+version: 1.1.0
+date-released: 2026-11-15
+url: "https://github.com/REVR-jpg/thermodynamic-cascade-calibration"
+references:
+  - type: article
+    authors:
+      - family-names: "Williams"
+        given-names: "Raymond Russell"
+    title: "Scale-Variant Thermodynamics and Entropic Gravity: A Mathematical Framework for Non-Local Energy Harvesting"
+    year: 2026
+    doi: "10.5281/zenodo.20810404"
+  - type: article
+    authors:
+      - family-names: "Williams"
+        given-names: "Raymond Russell"
+    title: "Empirical Calibration of the Dimensional Transition Constant (Lambda) in Scale-Variant Entropic Gravity Using Wide Binary Kinematics"
+    year: 2026
+    doi: "10.5281/zenodo.23166165"
